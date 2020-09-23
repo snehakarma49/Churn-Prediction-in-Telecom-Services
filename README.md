@@ -1,5 +1,7 @@
 # Churn-Prediction-in-Telecom-Services
 
+
+Churn Prediction in Telecom Services uding Machine Learning Models
 AIM: Customer relationship management is the most important aspect of any telecom organisation as there are a lot of other competitors. 
 The aim of this project is to predict the customer churn rate by implementing a suitable data mining technique, to carry out proper customer retention ideas. 
 
